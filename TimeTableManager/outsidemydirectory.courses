@@ -1,0 +1,162 @@
+AVI1O, Visual-Performing Arts, Open, 9, Art Room, 3, 1, 1, 1, 1, 1
+ADA1O, Visual-Performing Arts, Open, 9, Drama Room, 1, 1, 1, 1, 1, 1
+AMU1O, Visual-Performing Arts, Open, 9, Music Room, 2, 1, 1, 1, 1, 1
+AWQ2O, Visual-Performing Arts, Open, 10, Art Room, 6, 1, 1, 1, 1, 1
+AWA2O, Visual-Performing Arts, Open, 10, Art Room, 2, 1, 1, 1, 1, 1
+ADA2O, Visual-Performing Arts, Open, 10, Drama Room, 2, 1, 1, 1, 1, 1
+AMU2O, Visual-Performing Arts, Open, 10, Music Room, 1, 1, 1, 1, 1, 1
+AVI2O, Visual-Performing Arts, Open, 10, Video Room, 1, 1, 1, 1, 1, 1
+AMG3O, Visual-Performing Arts, Open, 11, Music Room, 2, 1, 1, 1, 1, 1
+AMU3M4M, Visual-Performing Arts, Acad/M/U, 11, Music Room, 1, 1, 1, 1, 1, 1
+ADA3M, Visual-Performing Arts, Acad/M/U, 11, Drama Room, 1, 1, 1, 1, 1, 1
+AVI3O, Visual-Performing Arts, Open, 11, Video Room, 1, 1, 1, 1, 1, 1
+AMP3O, Visual-Performing Arts, Open, 11, Music Room, 1, 1, 1, 1, 1, 1
+AVI3M, Visual-Performing Arts, Acad/M/U, 11, Video Room, 1, 1, 1, 1, 1, 1
+AMV203M4M, Visual-Performing Arts, Acad/M/U, 11, Music Room, 1, 1, 1, 1, 1, 1
+ADA4M, Visual-Performing Arts, Acad/M/U, 12, Drama Room, 1, 1, 1, 1, 1, 1
+AVI4M, Visual-Performing Arts, Acad/M/U, 12, Video Room, 1, 1, 1, 1, 1, 1
+BTT1O, Business, Open, 9, Computer Lab, 4, 1, 1, 1, 1, 1
+BBI2O, Business, Open, 10, Computer Lab, 3, 1, 1, 1, 1, 1
+BAF3M, Business, Acad/M/U, 11, Computer Lab, 2, 1, 1, 1, 1, 1
+BDI3C, Business, Appl/C, 11, Computer Lab, 2, 1, 1, 1, 1, 1
+BMI3C, Business, Appl/C, 11, Computer Lab, 2, 1, 1, 1, 1, 1
+HIP3E, Business, Loc Dev, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+BTA3O, Business, Open, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+CIE3M, Business, Open, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+BMX3E, Business, Loc Dev, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+BBB4M, Business, Acad/M/U, 12, Computer Lab, 2, 1, 1, 1, 1, 1
+BAT4M, Business, Acad/M/U, 12, Computer Lab, 2, 1, 1, 1, 1, 1
+BOH4M, Business, Acad/M/U, 12, Computer Lab, 2, 1, 1, 1, 1, 1
+CIA4U, Business, Acad/M/U, 12, Computer Lab, 1, 1, 1, 1, 1, 1
+BTX4C/VBTX4E, Business, Appl/C, 12, Computer Lab, 1, 1, 1, 1, 1, 1
+CGC1D, Social Science, Acad/M/U, 9, General, 13, 1, 1, 1, 1, 1
+CGC1P, Social Science, Appl/C, 9, General, 5, 1, 1, 1, 1, 1
+CHC2D, Social Science, Acad/M/U, 10, General, 11, 1, 1, 1, 1, 1
+CHC2P, Social Science, Appl/C, 10, General, 3, 1, 1, 1, 1, 1
+CIVCAR, Social Science, Open, 10, General, 7, 1, 1, 1, 1, 1
+CHA3U, Social Science, Acad/M/U, 11, General, 2, 1, 1, 1, 1, 1
+CLU3M, Social Science, Acad/M/U, 11, General, 6, 1, 1, 1, 1, 1
+CHW3M, Social Science, Acad/M/U, 11, General, 2, 1, 1, 1, 1, 1
+CGF3M, Social Science, Acad/M/U, 11, General, 1, 1, 1, 1, 1, 1
+CHC2L, Social Science, Loc Dev, 10, General, 1, 1, 1, 1, 1, 1
+CLU3E, Social Science, Loc Dev, 11, General, 1, 1, 1, 1, 1, 1
+HFA4M, Social Science, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+CLN4U, Social Science, Acad/M/U, 12, General, 4, 1, 1, 1, 1, 1
+IDC4UE, Social Science, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+CHY4U, Social Science, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+HSB4M, Social Science, Acad/M/U, 12, General, 4, 1, 1, 1, 1, 1
+CGW4U, Social Science, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+HHS4M, Social Science, Acad/M/U, 12, General, 3, 1, 1, 1, 1, 1
+CGR4M, Social Science, Acad/M/U, 12, General, 1, 1, 1, 1, 1, 1
+CPW4U, Social Science, Acad/M/U, 12, General, 1, 1, 1, 1, 1, 1
+ENG1D, English, Acad/M/U, 9, General, 12, 1, 1, 1, 1, 1
+ENG1P, English, Appl/C, 9, General, 4, 1, 1, 1, 1, 1
+ENG1PM, English, Appl/C, 9, General, 1, 1, 1, 1, 1, 1
+ENG2D, English, Acad/M/U, 10, General, 12, 1, 1, 1, 1, 1
+ENG2PM, English, Appl/C, 10, General, 1, 1, 1, 1, 1, 1
+ENG2P, English, Appl/C, 10, General, 3, 1, 1, 1, 1, 1
+ENG2DP, English, Acad/M/U, 10, General, 1, 1, 1, 1, 1, 1
+ELS2OM, English, Open, 10, General, 1, 1, 1, 1, 1, 1
+ENG3U, English, Acad/M/U, 11, General, 12, 1, 1, 1, 1, 1
+ENG3UP, English, Acad/M/U, 11, General, 1, 1, 1, 1, 1, 1
+ENG3C, English, Appl/C, 11, General, 4, 1, 1, 1, 1, 1
+EMS3O, English, Open, 11, General, 1, 1, 1, 1, 1, 1
+OLC3O, English, Open, 11, General, 3, 1, 1, 1, 1, 1
+EPS3O, English, Open, 11, General, 1, 1, 1, 1, 1, 1
+ENG4U, English, Acad/M/U, 12, General, 11, 1, 1, 1, 1, 1
+ENG4C, English, Appl/C, 12, General, 5, 1, 1, 1, 1, 1
+EWC4U, English, Acad/M/U, 12, General, 3, 1, 1, 1, 1, 1
+ENG4UP, English, Acad/M/U, 12, General, 1, 1, 1, 1, 1, 1
+FSF1D, Moderns, Acad/M/U, 9, General, 10, 1, 1, 1, 1, 1
+FSF1P, Moderns, Appl/C, 9, General, 5, 1, 1, 1, 1, 1
+LWIBD, Moderns, Acad/M/U, 10, General, 1, 1, 1, 1, 1, 1
+LWSBD, Moderns, Acad/M/U, 10, General, 1, 1, 1, 1, 1, 1
+FSF2D, Moderns, Acad/M/U, 10, General, 4, 1, 1, 1, 1, 1
+LWICU, Moderns, Acad/M/U, 11, General, 1, 1, 1, 1, 1, 1
+VLWSCDU, Moderns, Acad/M/U, 11, General, 1, 1, 1, 1, 1, 1
+FSF3U, Moderns, Acad/M/U, 11, General, 2, 1, 1, 1, 1, 1
+FSF4U, Moderns, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+ENG1LS, Academic Resource, Esp, 9, Academic Resource, 2, 1, 1, 1, 1, 1
+GLE10S, Academic Resource, Esp, 9, Academic Resource, 2, 1, 1, 1, 1, 1
+GLE1O, Academic Resource, Loc Dev, 9, Academic Resource, 3, 1, 1, 1, 1, 1
+GLE1OM, Academic Resource, Loc Dev, 9, Academic Resource, 1, 1, 1, 1, 1, 1
+MAT1LS, Academic Resource, Esp, 9, Academic Resource, 2, 1, 1, 1, 1, 1
+SNC1LS, Academic Resource, Esp, 9, Academic Resource, 2, 1, 1, 1, 1, 1
+MAT2LS, Academic Resource, Esp, 10, Academic Resource, 2, 1, 1, 1, 1, 1
+SVN3ES, Academic Resource, Esp, 10, Academic Resource, 2, 1, 1, 1, 1, 1
+ENG2LS, Academic Resource, Esp, 10, Academic Resource, 2, 1, 1, 1, 1, 1
+HRE20S, Academic Resource, Esp, 10, Academic Resource, 2, 1, 1, 1, 1, 1
+GLE2OR, Academic Resource, Loc Dev, 10, Academic Resource, 2, 1, 1, 1, 1, 1
+ENG3ES, Academic Resource, Esp, 11, Academic Resource, 1, 1, 1, 1, 1, 1
+HRE30S, Academic Resource, Esp, 11, Academic Resource, 1, 1, 1, 1, 1, 1
+CIVCAR, Guidance, Open, 10, General, 7, 1, 1, 1, 1, 1
+RCR2O1, Guidance, Open, 10, credit, 1, 1, 1, 1, 1, 1
+ALTED, Guidance, Open, 11, Computer Lab, 9, 1, 1, 1, 1, 1
+GWL3O, Guidance, Open, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+COOP2, Guidance, Open, 11, Computer Lab, 8, 0, 0, 1, 1, 1
+COOP4, Guidance, Open, 12, Computer Lab, 6, 0, 1, 1, 1, 1
+IDC4UT, Guidance, Open, 12, Computer Lab, 1, 1, 1, 1, 1, 1
+HRE1O, Religion, Open, 9, General, 17, 1, 1, 1, 1, 1
+HRE2O, Religion, Open, 10, General, 16, 1, 1, 1, 1, 1
+HRE3MU, Religion, Acad/M/U, 11, General, 13, 1, 1, 1, 1, 1
+HRE3MC, Religion, Appl/C, 11, General, 3, 1, 1, 1, 1, 1
+HPC3O, Religion, Open, 11, General, 3, 1, 1, 1, 1, 1
+HRE4MU, Religion, Acad/M/U, 12, General, 6, 1, 1, 1, 1, 1
+HZT4U, Religion, Acad/M/U, 12, General, 6, 1, 1, 1, 1, 1
+HRE4MC, Religion, Appl/C, 12, General, 3, 1, 1, 1, 1, 1
+MPM1D, Math, Acad/M/U, 9, General, 12, 1, 1, 1, 1, 1
+MFM1P, Math, Appl/C, 9, General, 4, 1, 1, 1, 1, 1
+MPM2D, Math, Acad/M/U, 10, General, 11, 1, 1, 1, 1, 1
+MFM2P, Math, Appl/C, 10, General, 5, 1, 1, 1, 1, 1
+MCF3M, Math, Acad/M/U, 11, General, 5, 1, 1, 1, 1, 1
+MCR3U, Math, Acad/M/U, 11, General, 8, 1, 1, 1, 1, 1
+MBF3C, Math, Appl/C, 11, General, 5, 1, 1, 1, 1, 1
+MEL3E, Math, Loc Dev, 11, General, 2, 1, 1, 1, 1, 1
+MCT4C, Math, Appl/C, 12, General, 1, 1, 1, 1, 1, 1
+MAP4C, Math, Appl/C, 12, General, 3, 1, 1, 1, 1, 1
+MDM4U, Math, Acad/M/U, 12, General, 5, 1, 1, 1, 1, 1
+MHF4U, Math, Acad/M/U, 12, General, 6, 1, 1, 1, 1, 1
+MCV4U, Math, Acad/M/U, 12, General, 5, 1, 1, 1, 1, 1
+PPL1OM, Physical Education, Open, 9, Gym, 6, 1, 1, 1, 1, 1
+PPL1OF, Physical Education, Open, 9, Gym, 6, 1, 1, 1, 1, 1
+PPL2OM, Physical Education, Open, 10, Gym, 4, 1, 1, 1, 1, 1
+PPL2OF, Physical Education, Open, 10, Gym, 3, 1, 1, 1, 1, 1
+PAF3OW, Physical Education, Open, 11, Weight Room, 3, 1, 1, 1, 1, 1
+PPL3O, Physical Education, Open, 11, Gym, 6, 1, 1, 1, 1, 1
+PPL4O, Physical Education, Open, 12, Gym, 4, 1, 1, 1, 1, 1
+PAF4OM, Physical Education, Open, 12, Gym, 2, 1, 1, 1, 1, 1
+PAF4OF, Physical Education, Open, 12, Gym, 1, 1, 1, 1, 1, 1
+PSE4U, Physical Education, Acad/M/U, 12, General, 2, 1, 1, 1, 1, 1
+SNC1D, Science, Acad/M/U, 9, Science Lab, 12, 1, 1, 1, 1, 1
+SNC1P, Science, Appl/C, 9, Science Lab, 5, 1, 1, 1, 1, 1
+SNC2D, Science, Acad/M/U, 10, Science Lab, 11, 1, 1, 1, 1, 1
+SNC2P, Science, Appl/C, 10, Science Lab, 3, 1, 1, 1, 1, 1
+SBI3U, Science, Acad/M/U, 11, Science Lab, 7, 1, 1, 1, 1, 1
+SCH3U, Science, Acad/M/U, 11, Science Lab, 8, 1, 1, 1, 1, 1
+SPH3U, Science, Acad/M/U, 11, Science Lab, 4, 1, 1, 1, 1, 1
+SBI3C, Science, Appl/C, 11, Science Lab, 2, 1, 1, 1, 1, 1
+SBI4U, Science, Acad/M/U, 12, Science Lab, 5, 1, 1, 1, 1, 1
+SCH4U, Science, Acad/M/U, 12, Science Lab, 5, 1, 1, 1, 1, 1
+SPH4U, Science, Acad/M/U, 12, Science Lab, 3, 1, 1, 1, 1, 1
+SPH4C, Science, Appl/C, 12, Science Lab, 1, 1, 1, 1, 1, 1
+SCH4C, Science, Appl/C, 12, Science Lab, 1, 1, 1, 1, 1, 1
+TIJ1O, Technologies, Open, 9, Wood Shop, 3, 1, 1, 1, 1, 1
+ICS2O, Technologies, Open, 10, Computer Lab, 3, 1, 1, 1, 1, 1
+TGJ2O3, Technologies, Open, 10, Graphics Lab, 2, 1, 1, 1, 1, 1
+TGJ2O1, Technologies, Open, 10, Video Room, 2, 1, 1, 1, 1, 1
+TTJ2O, Technologies, Appl/C, 10, Auto Shop, 15, 1, 1, 1, 1, 1
+TPJ3M, Technologies, Acad/M/U, 11, HealthCare Room, 4, 1, 1, 1, 1, 1
+TGG3M, Technologies, Acad/M/U, 11, Graphics Lab, 3, 1, 1, 1, 1, 1
+TFJ3C, Technologies, Appl/C, 11, Kitchen, 7, 1, 1, 1, 1, 1
+TTJ3C, Technologies, Appl/C, 11, Auto Shop, 2, 1, 1, 1, 1, 1
+ICS3U, Technologies, Acad/M/U, 11, Computer Lab, 3, 1, 1, 1, 1, 1
+ICS4U, Technologies, Acad/M/U, 12, Computer Lab, 2, 1, 1, 1, 1, 1
+TGV3M, Technologies, Acad/M/U, 11, Video Room, 2, 1, 1, 1, 1, 1
+TDJ3M, Technologies, Acad/M/U, 11, Computer Lab, 1, 1, 1, 1, 1, 1
+TPJ4M, Technologies, Acad/M/U, 12, HealthCare Room, 1, 1, 1, 1, 1, 1
+TGG4M, Technologies, Acad/M/U, 12, Graphics Lab, 2, 1, 1, 1, 1, 1
+TDJ4M, Technologies, Acad/M/U, 12, Computer Lab, 1, 1, 1, 1, 1, 1
+TGV4M, Technologies, Acad/M/U, 12, Video Room, 2, 1, 1, 1, 1, 1
+TFR4C, Technologies, Appl/C, 12, Kitchen, 1, 1, 1, 1, 1, 1
+TCJ4C, Technologies, Appl/C, 12, Wood Shop, 1, 1, 1, 1, 1, 1
+TFB4E, Technologies, Open, 12, HealthCare Room, 1, 1, 1, 1, 1, 1

@@ -1,0 +1,246 @@
+          _____                _____                    _____          
+         /\    \              /\    \                  /\    \         
+        /::\____\            /::\    \                /::\____\        
+       /::::|   |            \:::\    \              /::::|   |        
+      /:::::|   |             \:::\    \            /:::::|   |        
+     /::::::|   |              \:::\    \          /::::::|   |        
+    /:::/|::|   |               \:::\    \        /:::/|::|   |        
+   /:::/ |::|   |               /::::\    \      /:::/ |::|   |        
+  /:::/  |::|___|______        /::::::\    \    /:::/  |::|___|______  
+ /:::/   |::::::::\    \      /:::/\:::\    \  /:::/   |::::::::\    \ 
+/:::/    |:::::::::\____\    /:::/  \:::\____\/:::/    |:::::::::\____\
+\::/    / ~~~~~/:::/    /   /:::/    \::/    /\::/    / ~~~~~/:::/    /
+ \/____/      /:::/    /   /:::/    / \/____/  \/____/      /:::/    / 
+             /:::/    /   /:::/    /                       /:::/    /  
+            /:::/    /   /:::/    /                       /:::/    /   
+           /:::/    /    \::/    /                       /:::/    /    
+          /:::/    /      \/____/                       /:::/    /     
+         /:::/    /                                    /:::/    /      
+        /:::/    /                                    /:::/    /       
+        \::/    /                                     \::/    /        
+         \/____/                                       \/____/         
+                                                                       
+                                                                           
+Master Timetable Maker
+Table of Contents
+
+1.1 Intro
+1.2 Requirements
+　　　1.2a Software Requirements
+　　　1.2b Hardware Requirements
+1.3 Getting Started
+	1.3a Loading
+	1.3b The New project window
+	1.3c The Lunch Preference Window
+	1.3d The Room & Departments Window
+	1.3e The Add Courses Window
+1.4 Main Window
+	1.4a Master Time Table View
+	1.4b Room Information Tool Tip
+　　　1.4c Department text and fill color
+1.5 Placing Courses
+	1.5a Selecting courses
+	1.5b Placing the course
+	1.5c Removing a course
+	1.5d The Drag&Drop (Patent Pending) feature
+1.6 Finishing Up
+	1.6a HTML reports
+1.7 Making Changes
+1.8 Credits
+
+
+
+
+
+1.1 Intro
+Thank you for choosing the Master Timetable Maker!
+This program will generate the master time table for your school.
+This program was created as the CPT assignment for Mr.Liconti's
+grade 12 ICS4U class.
+Development Team
+　　　Troylan Tempra Jr
+　　　Holden Ciufo	
+　　　William Zhao	
+　　　Luka Pavlovic	
+　　　John Kwon
+
+1.2 Requirements
+
+1.2a  Software requirements
+	Java (JRE to run, JDK to service code)
+	Program coded in JDK 6.0 update 26
+	Internet browser (to view program generated HTML reports)
+1.2b  System requirements
+	Screen resolution must exceed 300 pixels in width
+
+1.3 Getting Started
+You may choose to start a new project or load an old one
+
+1.3a Loading
+	To load an existing project, the program will require you to open your project file with 	the file extension .mtm
+Starting a new project will ask for the following in order:
+1.3b New Project Window
+
+	Provide to the program: 
+	* Name of project
+	* Number of periods in the school day (enter only numbers)
+	 ex. 5 period day for OLMC
+	Click next to continue
+
+
+1.3c The Lunch Preference Window
+
+	Provide to the program:
+	* Check off the preferred lunch period(s) of each grade
+	The program will avoid doubling up sections in those periods
+
+
+1.3d The Room & Departments Window
+
+	
+
+
+Provide to the program:
+	*The type of rooms available in the school (and how many)
+	** Both "Add To List" and "Add Manually" button adds to the list to the right)
+
+	*The names of the departments at the school
+	** Both "Add To List" and "Add Manually" button adds to the list to the right)
+
+*The undo button removes the last element added to the list (for both rooms and  departments)
+
+1.3e The Add Courses Window
+
+	Provide to the program:
+	* Name of each course
+	* Department of course
+	* Room required for course
+	* Level of course
+	* Number of sections in the course (enter only numbers)
+	* Grade of course
+	Press add to add the course to the list
+Period restriction will restrict the course from being placed in the selected period
+	
+	Editing added courses
+	Select the course to be edited from the list
+	Make changes on the left side of the window
+	When ready, click Update changes
+
+
+1.4 Main Window
+
+Placed Courses Window (Left):
+The left window shows semester 1, right window shows semester 2
+
+The tabs located towards the bottom of the window allow you to see a specific department's schedule
+ The file button located towards the top left of the window allow you to load/save as well as start a new project.
+To start a new project, refer to section 1.3
+ The view button located beside the file button allows you to toggle the visibility of the period totals display. As well as the Edit Department Display Options
+	       * The period totals display
+		 Shows the number of courses placed inside each period by grade
+	       * The column display options bar
+		 Allows you to control how many columns of each course level is visible
+		 inside the placed courses window 
+1.4a Master Timetable View
+Go to: View ≧ Generate Master Time Table Window
+This will generate the master time table which contains all the placed courses from each department into one window
+
+
+
+
+1.4b Room Information Tool Tip
+
+Hover over each period with the mouse to see:
+	*What rooms are available
+	*How many rooms of each type are used (unplaced/total available)
+To view the room summaries for all the periods in both semesters:
+View ≧ Room Summaries
+
+1.4c Department text and fill color
+
+View ≧ Select Department Fill Color OR View ≧ Select Department Text Color
+You may change the fill and text color however you like, but selecting a fill color already in use will move you to the department which uses that color.
+A color can be only used by 1 department
+1.5 Placing Courses 
+
+Using the Control Window (Right)
+The school template can be edited using the Edit School Template button located towards the bottom of the window. 
+Firstly, use the Automate button to place the majority of the courses before taking manual action below. Singletons will not be placed automatically.
+
+
+1.5a Selecting courses
+	Using the Filter Courses lists
+	*Click and select the department and course level you would like to see
+	*The filtered results will be displayed inside the Select a Course list below
+*The numbers beside each course code represents                                             (Sections not yet placed / Total sections of the course)
+1.5b Placing the course
+With a course selected:
+*Click and Select a slot on the Placed Courses window for the currently selected course to be placed in
+*Clicking the Add/Replace Section will place the course inside the selected space.
+	 **NOTE that it will overwrite any pre-existing course in the selected space
+		More spaces can be spawned using the Edit Department Display Option
+		Sections will not place inside the wrong grade/level
+1.5c Removing a course
+	Click and select a course on the placed courses window you wish to remove
+	*Then, click the Remove Section button to remove the course
+
+1.5d The Drag&Drop feature
+	Using the Placed Courses window
+	*Click and Drag the placed section to where you wish it to transfer it
+	*Section will automatically place itself in the correct level and grade of selected 	 	period
+	*If a course already occupies the destination space, they will swap positions
+
+	Drag & Drop not supported on master time table view windows
+
+1.6 Finishing up
+
+1.6a HTML reports
+Access this feature through: File ≧ Create HTML
+The generated report will contain placed courses for selected departments
+
+
+Select the department to be included in the report.
+Specify the destination of the report and click create.
+The report can be viewed through an internet browser.
+
+
+1.7 Making Changes
+At any given time, the current projects template can be edited.
+
+The information given to the program in section 1.3 can be accessed and revised by clicking on the edit button in the menu bar. Course information, department and room information, grade lunch preferences and the file (project) name can be changed. The program will open the same windows as shown in section 1.3
+
+Any changes made through this procedure will update real time in the main windows.
+
+The clear all button will clear the entire table.
+
+1.8 Credits
+	Development Team
+　　　Troylan Tempra Jr
+　　　Holden Ciufo	
+　　　William Zhao	
+　　　Luka Pavlovic	
+　　　John Kwon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MTM User Manual
+
+
+Manual version: Release 2_1                                                                             Page 10 of 10
+
